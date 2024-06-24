@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @67arvind
-- 👀 I’m interested in ...web development 
+- 👀 I’m interested in ...Software developer 
 - 🌱 I’m currently learning ...java 
 - 💞️ I’m looking to collaborate on ... anyone whose intresting in web development 
 - 📫 How to reach me ...via Gmail id
